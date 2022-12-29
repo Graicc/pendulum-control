@@ -9,6 +9,8 @@ edition = "2021"
 bevy = "0.9.0"
 bevy_egui = "0.17.1"
 bevy_prototype_debug_lines = "0.9.0"
+lqr = "0.1.0"
+nalgebra = "0.30"
 
 # Enable a small amount of optimization in debug mode
 [profile.dev]
